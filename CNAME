@@ -1,4 +1,2 @@
-type: CNAME
-host: jinwookkim.me
-answer: jinwookkim.github.io
-TTL: 300
+jinwookkim.me
+www.jinwookkim.me
