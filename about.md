@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a senior at University of Texas at Austin majoring in Computer Science with a minor in Chinese. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+One of my hobbies is to fold origami. 
 
 ### Contact me
 
