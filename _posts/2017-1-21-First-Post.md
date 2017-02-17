@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Week 1
+excerpt_separator: <!--more-->
 ---
+
+<!--more-->
 
 ## Introduction
 Greetings! My name is Jinwook Kim and I am a senior at the University of Texas at Austin. I am currently pursuing a BSA in Computer Science with a minor in Chinese. I personally love the arts and was estatic when the CS department released a new degree plan that included the arts even more. I have already taken 4 semester of Chinese, taking my second semester of Japanese right now, and next week I am about to start my first day learning Vietnamese through the Asian American Resources Center (so, it is not affiliated with UT; just taking it for fun). 
