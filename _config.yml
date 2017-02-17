@@ -3,15 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Jinwook Kim
+name: "Jinwook Kim"  
 
 # Short bio or description (displayed in the header)
-description: Programmer from Austin
+description: "I am an undergrad at the University of Texas at Austin, majoring in Computer Science."
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/jinwook_kim.jpg
-
-excerpt_separator: ""
 
 #
 # Flags below are optional
