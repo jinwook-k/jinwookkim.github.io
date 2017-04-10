@@ -10,11 +10,7 @@ excerpt_separator: <!--more-->
 
 **Notes on []()**
 
-**Javascript: The Good Parts**
-
-**DD: UML & SQL**
-
-### Topic
+**Refactoring: Ch. 7-8**
 
 **What did I do this past week?**
 
